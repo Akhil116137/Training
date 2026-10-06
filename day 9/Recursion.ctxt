@@ -1,0 +1,8 @@
+#BlueJ class context
+#Mon Oct 05 12:01:06 IST 2026
+comment0.target=Recursion
+comment1.params=x n
+comment1.target=double powRec(int, int)
+comment2.params=args
+comment2.target=void main(java.lang.String[])
+numComments=3
